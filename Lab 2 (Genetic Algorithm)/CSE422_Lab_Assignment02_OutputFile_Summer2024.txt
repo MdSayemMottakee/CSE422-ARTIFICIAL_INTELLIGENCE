@@ -1,0 +1,2 @@
+Best Solution: 100001010
+Fitness: 0
